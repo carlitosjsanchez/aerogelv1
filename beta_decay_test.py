@@ -1,9 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 12 17:07:49 2023
+# HAVE FUN.
 
-@author: FAYOGA
-"""
+'''
+Created on Wed Apr 12 17:07:49 2023
+'''
 
 import matplotlib.pyplot as plt
 
